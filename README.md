@@ -1,9 +1,11 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murasame29&theme=vue)
+
 ### Hi there 👋
 <p align="left"> 
   <img alt="Top Langs" height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murasame29&layout=compact&langs_count=6&theme=merko" />
   <img alt="github stats" height="147px" src="https://github-readme-stats.vercel.app/api?username=murasame29&show_icons=true&theme=merko" /> 
+  
 </p>
-
 <!--
 **murasame29/murasame29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
